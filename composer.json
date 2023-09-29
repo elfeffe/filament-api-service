@@ -1,15 +1,15 @@
 {
-    "name": "rupadana/api-service",
+    "name": "elfeffe/filament-api-service",
     "description": "A simple api service for supporting filamentphp",
     "keywords": [
         "rupadana",
         "laravel",
         "api-service"
     ],
-    "homepage": "https://github.com/rupadana/api-service",
+    "homepage": "https://github.com/elfeffe/filament-api-service",
     "support": {
-        "issues": "https://github.com/rupadana/api-service/issues",
-        "source": "https://github.com/rupadana/api-service"
+        "issues": "https://github.com/elfeffe/filament-api-service/issues",
+        "source": "https://github.com/elfeffe/filament-api-service"
     },
     "license": "MIT",
     "authors": [

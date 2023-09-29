@@ -84,8 +84,8 @@ class MakeApiServiceCommand extends Command
 
         $updateHandlerClass = 'UpdateHandler';
         $detailHandlerClass = 'DetailHandler';
-        $paginationHandlerClass = 'PaginationClass';
-        $deleteHandlerClass = 'DeleteHandlerClass';
+        $paginationHandlerClass = 'PaginationHandler';
+        $deleteHandlerClass = 'DeleteHandler';
 
         $baseResourcePath =
             (string) str($resource)
